@@ -1,0 +1,5 @@
+Public key:
+pkey_test_5xqz7kqiadoudui0lxl
+
+Secret key:
+skey_test_5xqz7gh5yazcn18blj3
